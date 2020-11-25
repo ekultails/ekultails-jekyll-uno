@@ -1,19 +1,19 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: EkulTails
+description: 'Luke Short - Cloud Architect, open source advocate, Linux gamer, Chromebook enthusiast, Star Wars fan, and a proud citizen of Colorado.'
+url: 'https://ekultails.com'
+#baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Luke Short'
+  email: ekultails@gmail.com
+#  twitter_username:
+#  facebook_username:
+  github_username: ekultails
+  linkedin_username: luke-short-68872813a
 
 defaults:
   -
