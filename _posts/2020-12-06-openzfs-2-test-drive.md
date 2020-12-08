@@ -1,5 +1,5 @@
 ---
-title: "Taking OpenZFS 2.0 out for a Test Drive!"
+title: "Taking OpenZFS 2.0 out for a Spin!"
 date: 2020-12-06 12:00:00
 categories:
   - storage
