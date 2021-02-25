@@ -38,3 +38,7 @@ Sources:
 - [GitLab Mesa/mesa WIP: add virtio-gpu Vulkan driver](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/5800)
 
 Follow me (Luke Short) on [Twitter](https://twitter.com/ekultails) or connect with me on [LinkedIn](https://www.linkedin.com/in/luke-short-68872813a/) if you want more in-depth Chrome OS and/or Linux gaming news!
+
+UPDATE (2021-02-24):
+
+More bold predictions. Borealis and Chromebooks will be the spiritual successors to [Steam OS](https://store.steampowered.com/steamos/) and [Steam Machines](https://www.pcgamer.com/what-happened-to-steam-machines/)!
