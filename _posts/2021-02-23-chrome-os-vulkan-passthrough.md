@@ -42,3 +42,7 @@ Follow me (Luke Short) on [Twitter](https://twitter.com/ekultails) or connect wi
 UPDATE (2021-02-24):
 
 More bold predictions. Borealis and Chromebooks will be the spiritual successors to [Steam OS](https://store.steampowered.com/steamos/) and [Steam Machines](https://www.pcgamer.com/what-happened-to-steam-machines/)!
+
+UPDATE (2021-02-25):
+
+I forgot to also mention that a [Chromebook with a discrete graphics card](https://chromeunboxed.com/mushu-chromebook-discrete-gpu-project-athena/) has been in development for over a year now. It's been a long time since I've heard about it. I'd bet that it's being used to test Borealis and so far has not been ready for market due to the lack of Vulkan passthrough support.
