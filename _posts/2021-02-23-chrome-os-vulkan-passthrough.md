@@ -46,3 +46,7 @@ More bold predictions. Borealis and Chromebooks will be the spiritual successors
 UPDATE (2021-02-25):
 
 I forgot to also mention that a [Chromebook with a discrete graphics card](https://chromeunboxed.com/mushu-chromebook-discrete-gpu-project-athena/) has been in development for over a year now. It's been a long time since I've heard about it. I'd bet that it's being used to test Borealis and so far has not been ready for market due to the lack of Vulkan passthrough support.
+
+UPDATE (2021-03-08):
+
+Some people still think Steam on Chromebooks is a myth. Kan Liu, an executive in charge of Chrome OS, [confirmed at CES 2020 to Android Police staff](https://www.androidpolice.com/2020/01/17/exclusive-google-is-working-to-bring-steam-to-chrome-os/) that Steam is coming to Chromebooks. They also confirmed it will use the same method as Linux on Chromebooks uses (i.e., running Steam in a virtual machine).
