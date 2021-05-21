@@ -110,7 +110,7 @@ Ah, look what we have here. `kubectl`. Get used to it, my friends. You'll be usi
 
 - **Role-Based Access Control (RBAC)**
 
-    - `kubectl create sa ...; ka create role ...; ka create rolebinding ...` # Create a ServiceAccount, a Role which defines which permissions are granted, and active the ServiceAccount by assigning the Role via a RoleBinding (or ClusterRoleBinding).
+    - `kubectl create sa ...; kubectl create role ...; kubectl create rolebinding ...` # Create a ServiceAccount, a Role which defines which permissions are granted, and active the ServiceAccount by assigning the Role via a RoleBinding (or ClusterRoleBinding).
     - `kubectl auth can-i --list` # View all of the permissions the current user has.
     - `kubectl auth can-i <ACTION> <API> --as system:serviceaccount:<NAMESPACE>:<SERVICEACCOUNT_NAME>` # Verify that a ServiceAccount can perform the specified action.
 
